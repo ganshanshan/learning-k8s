@@ -1,8 +1,8 @@
 apiVersion: v1
 kind: Node
 metadata:
-  name: node001
+  name: node002
   labels:
-    kubernetes.io/hostname: node001
+    kubernetes.io/hostname: node002
 spec:
   unschedulable: true
