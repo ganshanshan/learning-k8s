@@ -25,7 +25,7 @@ spec:
       memory: 1Gi
     min:
       cpu: 100m
-      memory: 1Gi
+      memory: 1Mi
     maxLimitRequestRatio:
       cpu: 5
       memory: 4
