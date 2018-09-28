@@ -9,4 +9,4 @@ spec:
     replicationcontrollers: "20"
     secrets: "10"
     services: "10"
-    services.loadbalances: "2"
+    services.loadbalancers: "2"
